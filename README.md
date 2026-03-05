@@ -1,3 +1,6 @@
+> [!NOTE] 
+> For a more modern Wiiload on Android, check out: [Sudachi-E's Wiiload-Android](https://github.com/Sudachi-E/Wiiload-Android) instead.
+
 ## Wiiload for Android
 
 **Wiiload for Android** is an Android port of [JWiiload](https://github.com/vgmoose/jwiiload) and is used for sending homebrew apps to the Wii or Wii U. It accepts .dol, .elf, .rpx, and supports sending .zip to 1.0.8 for installation. This can be useful when there is no computer around, yet an app needs to be quickly installed. The application is simple to use, and includes full functionality of the computer version, as well as more faith in the scanning functions, PLUS the option to have the Wii use a static IP address, although not as useful as scanning.
